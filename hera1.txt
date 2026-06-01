@@ -1,3 +1,5 @@
 git branching without switching is git branch <newbranch>. git branching with switching is git chechout -b <newbranch>.
 2. fast forwards only happens if there are no commits on the original branch while the new branch is being worked on.
 3. changing to another branch is git checkout <difbranch>.
+4. to delete branch it is git branch -D <branch>.
+5. Git has merge conflicts when it can't determine the file or folder when merging since different commits have been made to the same file
