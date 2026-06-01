@@ -1,2 +1,1 @@
-hello
-Hera Testing
+git branching without switching is git branch <newbranch>. git branching with switching is git chechout -b <newbranch>.
